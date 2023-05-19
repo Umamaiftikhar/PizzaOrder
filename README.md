@@ -4,7 +4,15 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <style>
+.id
+{
+text-align:center;
+background-color:lightblue;
+color:black;
+}
 
+</style>
 </head>
 
 <body>
@@ -43,7 +51,7 @@
 </td>
 </tr>
 <tr>
-!-- <td colspan="2"><textarea rows="4"></textarea></td></tr> !* 
+<td colspan="2"><textarea rows="4"></textarea></td></tr> 
 
 <tr>
 <td colspan="2"><button>Send my Order</button>
