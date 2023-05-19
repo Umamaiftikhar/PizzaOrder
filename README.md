@@ -4,15 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-.id
-{
-text-align:center;
-background-color:lightblue;
-color:black;
-}
 
-</style>
 </head>
 
 <body>
